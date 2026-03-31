@@ -2,8 +2,6 @@
 
 A **local chatroom** with login/register, media sharing, and profile pictures – built with **HTML**, **CSS**, **JavaScript**, and **MongoDB**.  
 
-[GitHub Repository](https://github.com/devix05/LocalChatroom)
-
 ---
 
 ## 🔥 Features
