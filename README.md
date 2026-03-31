@@ -1,4 +1,4 @@
-# 🚀 LocalChatroo
+# 🚀 LocalChatroom
 A **local chatroom** with login/register, media sharing, and profile pictures – built with **HTML**, **CSS**, **JavaScript**, and **MongoDB**.  
 
 <img src="chatroom.png" alt="LocalChatroom Preview" width="600">
