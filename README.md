@@ -1,6 +1,6 @@
 # 🚀 LocalChatroom
 
-![LocalChatroom Preview](chatroom.png)
+<img src="chatroom.png" alt="LocalChatroom Preview" width="600">
 
 A **local chatroom** with login/register, media sharing, and profile pictures – built with **HTML**, **CSS**, **JavaScript**, and **MongoDB**.  
 
