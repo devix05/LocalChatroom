@@ -1,5 +1,7 @@
 # 🚀 LocalChatroom
 
+![LocalChatroom Preview](https://via.placeholder.com/800x300.png?text=LocalChatroom+Preview)
+
 A **local chatroom** with login/register, media sharing, and profile pictures – built with **HTML**, **CSS**, **JavaScript**, and **MongoDB**.  
 
 ---
