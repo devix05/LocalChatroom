@@ -32,3 +32,4 @@ A **local chatroom** with login/register, media sharing, and profile pictures â€
 ```bash
 git clone https://github.com/devix05/LocalChatroom.git
 cd LocalChatroom
+npm install
